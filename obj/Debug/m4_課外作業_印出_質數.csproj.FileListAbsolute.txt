@@ -1,0 +1,7 @@
+D:\Program\C#講義Sample\20180727\m4_10_課外作業_5_印出_質數\bin\Debug\m4_課外作業_印出_質數.exe.config
+D:\Program\C#講義Sample\20180727\m4_10_課外作業_5_印出_質數\bin\Debug\m4_課外作業_印出_質數.exe
+D:\Program\C#講義Sample\20180727\m4_10_課外作業_5_印出_質數\bin\Debug\m4_課外作業_印出_質數.pdb
+D:\Program\C#講義Sample\20180727\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.csproj.CoreCompileInputs.cache
+D:\Program\C#講義Sample\20180727\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.exe
+D:\Program\C#講義Sample\20180727\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.pdb
+D:\Program\C#講義Sample\20180727\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.csprojAssemblyReference.cache
